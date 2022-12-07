@@ -1,7 +1,0 @@
-﻿  Assembling syscalls_mem_stubs.x64.asm...
-  syscalls_mem.c
-C:\Users\root\Desktop\test\Obfusicated\fuckedupone - HANDLE(-1)\syswhisperstrial\syscalls_mem.c(157,26): warning C4311: 'type cast': pointer truncation from 'PVOID' to 'DWORD'
-  syswhisperstrial.cpp
-C:\Users\root\Desktop\test\Obfusicated\fuckedupone - HANDLE(-1)\syswhisperstrial\syswhisperstrial.cpp(69,9): warning C4101: 'rb': unreferenced local variable
-C:\Users\root\Desktop\test\Obfusicated\fuckedupone - HANDLE(-1)\syswhisperstrial\syswhisperstrial.cpp(130): warning C4715: 'getthatpayloadinjected': not all control paths return a value
-  syswhisperstrial.vcxproj -> C:\Users\root\Desktop\test\Obfusicated\fuckedupone - HANDLE(-1)\x64\Debug\syswhisperstrial.exe
