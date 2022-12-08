@@ -19,7 +19,7 @@ This repository contains a couple of simple loader scripts.
 
 - Opsec:
   - Obfusicate and remove debug statements.
-  - For better file opsec follow this highly recommended [SharpUp](https://redteamer.tips/basic-operational-security-when-dropping-to-disk/).
+  - For better file opsec follow this - highly recommended [SharpUp](https://redteamer.tips/basic-operational-security-when-dropping-to-disk/).
 
 
 - Acknowledgments:
