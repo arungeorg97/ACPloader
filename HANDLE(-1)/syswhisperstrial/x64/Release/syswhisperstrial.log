@@ -1,9 +1,0 @@
-﻿  Assembling syscalls_mem_stubs.x64.asm...
-cl : command line  warning D9025: overriding '/sdl' with '/GS-'
-  syscalls_mem.c
-  syswhisperstrial.cpp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  syswhisperstrial.vcxproj -> C:\Users\root\Desktop\Repository\Github\edrtest-main\UAT\HANDLE(-1)\x64\Release\syswhisperstrial.exe
